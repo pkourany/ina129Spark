@@ -20,9 +20,8 @@
 #ifndef ina1289Spark_h
 #define ina1289Spark_h
 
-#include  "Application.h"         //for local compile
-#include <inttypes.h>
-#include <stdint.h>
+#include "application.h"        //for local compile
+
 
 /*=========================================================================
     I2C ADDRESS/BITS
